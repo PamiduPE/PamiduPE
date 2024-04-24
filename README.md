@@ -1,7 +1,7 @@
 
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pamidu</h1>
-<h3 align="center">A passionate Web developer from Sri Lanka</h3>
+<h3 align="center">A passionate Web developer from LK</h3>
 <img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/02/Backend-Developer-NodeJS.gif">
 
 
